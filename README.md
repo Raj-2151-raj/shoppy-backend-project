@@ -58,7 +58,7 @@ Supports **product listing**, **user authentication**, **shopping cart managemen
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Raj-2151-raj/shoppy-backend-project.git
+git clone https://github.com/Raj-2151-raj/shoppy-backend-project
 cd shoppyglobe-backend
 2️⃣ Install dependencies
 
@@ -122,7 +122,7 @@ MongoDB + Mongoose
 
 JWT (authentication)
 
-github link : https://github.com/Raj-2151-raj/shoppy-backend-project.git
+github link : https://github.com/Raj-2151-raj/shoppy-backend-project
 
 License
 MIT License © 2025 Raj chandrakant thakur
